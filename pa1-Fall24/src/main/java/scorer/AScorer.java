@@ -5,6 +5,7 @@ import ds.Query;
 import utils.IndexUtils;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -62,6 +63,17 @@ public abstract class AScorer {
          * in this.idfs).
          */
 
+        //compute raw frequencies       
+        for (String word : q.queryWords) {
+            tfQuery.put(word, tfQuery.getOrDefault(word, 0.0) + 1.0);
+        }
+        
+        //weigh by idf
+        for (String word : tfQuery.keySet()) {
+            long idf = this.utils.totalNumDocs() / this.utils.docFreq(word);
+            tfQuery.replace(word, tfQuery.get(word) * idf);
+        }
+
         return tfQuery;
     }
 
@@ -94,15 +106,20 @@ public abstract class AScorer {
          * Initialize any variables needed
          */
 
+        for (String tfType : TFTYPES) tfs.put(tfType, new HashMap<String, Double>());
+
         for (String queryWord : q.queryWords) {
-            /*
-             * TODO: Your code here
-             * Loop through query terms and accumulate term frequencies.
-             * Note: you should do this for each type of term frequencies,
-             * i.e. for each of the different fields.
-             * Don't forget to lowercase the query word.
-             */
+            queryWord = queryWord.toLowerCase(); 
+
+            String title = d.title.toLowerCase();
+            Double title_tf = (double) (title.split(queryWord).length - 1);
+            tfs.get("title").put(queryWord, title_tf);
+
+            List<Integer> bodyHits = d.body_hits.get(queryWord);
+            Double body_tf = (bodyHits != null) ? (double) bodyHits.size() : 0.0;
+            tfs.get("body").put(queryWord, body_tf);    
         }
+
         return tfs;
     }
 

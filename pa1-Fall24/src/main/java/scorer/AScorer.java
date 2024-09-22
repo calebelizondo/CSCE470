@@ -70,8 +70,9 @@ public abstract class AScorer {
         
         //weigh by idf
         for (String word : tfQuery.keySet()) {
-            long idf = this.utils.totalNumDocs() / this.utils.docFreq(word);
-            tfQuery.replace(word, tfQuery.get(word) * idf);
+            long idf = 1;
+            if (this.utils.docFreq(word) != 0) idf = this.utils.totalNumDocs() / this.utils.docFreq(word);
+            tfQuery.replace(word, tfQuery.getOrDefault(word, 0.0) * idf);
         }
 
         return tfQuery;
@@ -111,13 +112,20 @@ public abstract class AScorer {
         for (String queryWord : q.queryWords) {
             queryWord = queryWord.toLowerCase(); 
 
-            String title = d.title.toLowerCase();
+            String title = "";
+            if (d.title != null) title = d.title.toLowerCase();
             Double title_tf = (double) (title.split(queryWord).length - 1);
             tfs.get("title").put(queryWord, title_tf);
 
-            List<Integer> bodyHits = d.body_hits.get(queryWord);
-            Double body_tf = (bodyHits != null) ? (double) bodyHits.size() : 0.0;
-            tfs.get("body").put(queryWord, body_tf);    
+            if (d.body_hits != null && d.body_hits.containsKey(queryWord)) {
+                tfs.get("body").put(queryWord, (double) d.body_hits.get(queryWord).size());
+            } else {
+                tfs.get("body").put(queryWord, 0.0);
+            }
+
+            // List<Integer> bodyHits = d.body_hits.get(queryWord);
+            // Double body_tf = (bodyHits != null) ? (double) bodyHits.size() : 0.0;
+            // tfs.get("body").put(queryWord, body_tf);    
         }
 
         return tfs;

@@ -8,7 +8,9 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * Skeleton code for the implementation of a
@@ -20,7 +22,7 @@ public class VSMScorer extends AScorer {
      * TODO: You will want to tune the values for
      * the weights for each field.
      */
-    double titleweight  = 0.1;
+    double titleweight  = 0.5;
     double bodyweight = 0.1;
 
     /**
@@ -48,6 +50,20 @@ public class VSMScorer extends AScorer {
          * between a query vector and the term score vectors
          * for a document.
          */
+
+        // Set<String> wordSet = tfs.get("title").keySet();
+        // wordSet.addAll(tfs.get("body").keySet());
+
+        Set<String> wordSet = new HashSet<String>(q.queryWords);
+
+        for (String word : wordSet) {
+            double title_tf = tfs.get("title").getOrDefault(word, 0.0);
+            double body_tf = tfs.get("body").getOrDefault(wordSet, 0.0);
+            double combined_tf = titleweight * title_tf + body_tf * bodyweight;
+
+            score += tfQuery.get(word) * combined_tf;
+        }
+
         return score;
     }
 
@@ -63,6 +79,12 @@ public class VSMScorer extends AScorer {
          * Note that we should use the length of each field 
          * for term frequency normalization as discussed in the assignment handout.
          */
+
+        for (String word : tfs.get("body").keySet()) {
+            if (d.body_hits != null && d.body_hits.containsKey(word)) {
+                tfs.get("body").replace(word, 1 + Math.log(tfs.get("body").get(word)));
+            }
+        }
     }
 
     /**

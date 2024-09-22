@@ -1,1518 +1,494 @@
-query: bechtel international center hours 
-  url: https://bechtel.stanford.edu/immigration/employment/f-1-employment 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/about-us/hours 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/coming-stanford/new-student-information/removing-enrollment-hold 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/about-us/international-student-identification-cards-isic-and-passport-photos 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/immigration 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/immigration/visa-types/f-1j-1-student-visas/leave-absence 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/departments 0.0
-    title: null
-    debug: Pagerank: 0
-query: dining menus 
-  url: https://www.gsb.stanford.edu/sites/gsb/files/menu-schwab-catering.pdf 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/food-allergies 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/arrillaga-family-dining-commons 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/lakeside-dining 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/wilbur-dining 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/arrillaga-nights 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://visit.stanford.edu/activities/dining.html 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/rde/dining/pdfs/StanfordDining_hours2011-12.pdf 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/dept/rde/dining/facebooklanding.html 3.0
-    title: null
-    debug: Pagerank: 0
-query: campus police incidents 
-  url: https://web.stanford.edu/dept/news/pr/02/batterysuspect612.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://police.stanford.edu/security-report.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/2016/09/30/safety-security-fire-report/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://police.stanford.edu/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://emergency.stanford.edu/category/alertsu/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2008/october1/crime-100108.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://police.stanford.edu/pdf/Stanford_CrimeStats2013-2015.pdf 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://emergency.stanford.edu/2015/10/police-activity-101715-655-pm/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://emergency.stanford.edu/category/alertsu/info/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2012/august/campus-police-episode-080312.html 1.0
-    title: null
-    debug: Pagerank: 0
-query: stats 305 
-  url: https://statistics.stanford.edu/courses/stats-20288 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://explorecourses.stanford.edu/print;jsessionid=ptwt9p5iz7yx1bta520e9tklo?q=STATS+200&descriptions=on&catalog= 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://statweb.stanford.edu/~owen/courses/305a/305MinNotesMarked.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://statweb.stanford.edu/~tibs/sta305.html 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/search?page=6&q=STATS&filter-coursestatus-Active=on&view=catalog&academicYear=20112012&filter-departmentcode-STATS=on 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&q=STATS305 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://statistics.stanford.edu/courses-autumn-2016 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/search;jsessionid=q0d9f1xahjzr11vhp4b6nkqly?q=STATS+305B%3A+Methods+for+Applied+Statistics+I&view=timeschedule&catalog=&page=0&filter-coursestatus-Active=on&collapse= 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=STATS+305%3A+Introduction+to+Statistical+Modeling&collapse= 2.0
-    title: null
-    debug: Pagerank: 0
-query: vaden hours 
-  url: https://vaden.stanford.edu/about/hours 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/people/pharmacy 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/sites/default/files/vaden-unintended-drug-testing-flier-100114-final-high.pdf 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/health-resources/mental-health 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/make-appointment/medical-services/testing-unintended-drug-ingestion 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/make-appointment/medical-services 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/make-appointment/medical-services/lab-and-x-ray-services 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/pharmacy 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/caps-and-wellness/assisting-students-distress 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vaden.stanford.edu/get-help-now/immediate-medical-help 1.5
-    title: null
-    debug: Pagerank: 0
-query: weight loss 
-  url: http://whatmeds.stanford.edu/medications/bupropion.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/radiology/radiologysite/site182.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://med.stanford.edu/nutrition/nutrition-studies-group/completed-studies/sleep-and-weight-loss.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://med.stanford.edu/clinicaltrials/trials/NCT01661426 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://med.stanford.edu/nutrition/nutrition-studies-group/completed-studies/comparative-weight-loss.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/hopes/cgi-bin/hopes_test/weight-loss-demystifying-a-medical-mystery/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://events.stanford.edu/events/530/53001/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scopeblog.stanford.edu/2011/08/15/study-shows-link-between-maternal-iv-fluids-and-weight-loss-in-newborns/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://med.stanford.edu/news/all-news/2010/12/making-weight-loss-work.html 2.0
-    title: null
-    debug: Pagerank: 0
-query: stanford dining hall meal plan 
-  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/halal-options 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/hospitality/cardinaldollarspecial 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/mealplans 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/vegetarian-vegan-dining 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/locations-hours 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/my-meal-plan-account 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/dining-meal-delivery-service 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans 3.0
-    title: null
-    debug: Pagerank: 0
-query: stanford housing cost 
-  url: https://rde.stanford.edu/studenthousing/single-graduate-housing 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/tuitionfeesandhousing/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/mealplans 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/rates-billing 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/summer-rates-single-undergraduates 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/undergraduate-meal-plans 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/incoming-undergraduate-summer-visitors-housing-rates 2.0
-    title: null
-    debug: Pagerank: 0
-query: stanford wilbur front desk 
-  url: https://rde.stanford.edu/studenthousing/stern-hall 1.3
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/meet-staff 1.3
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/munger-graduate-residence 1.3
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/wilbur-hall-0 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/lagunita-court-0 1.3
-    title: null
-    debug: Pagerank: 0
-  url: https://resed.stanford.edu/residences/find-house/soto 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/frontdesk/governors-corner 1.3
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/housing-front-desks 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/help 1.3
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/advising/approaching/approaching-stanford/moving-farm/getting-campus 1.7
-    title: null
-    debug: Pagerank: 0
-query: hoover institute 
-  url: http://news.stanford.edu/2016/01/14/golden-state-poll-011416/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2007/november14/raisian-111407.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://hoohila.stanford.edu/friedman/index.php 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2011/august/iraq-hoover-archives-080111.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/thedish/2015/10/19/stanford-scholars-pen-books-on-financial-reform-sakharov/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://library.stanford.edu/libraries/hila/about 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/thedish/2015/09/21/media-roundtable-at-stanfords-hoover-institution-provides-opportunity-to-think-beyond-the-sound-bite/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://library.stanford.edu/libraries/hoover/about 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/2015/02/20/hoover-director-annouce-022015/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/faculty-research/faculty/edward-lazear 2.0
-    title: null
-    debug: Pagerank: 0
-query: cs276 slides 
-  url: https://web.stanford.edu/class/cs276/handouts/lecture12-textcat.ppt 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/class/cs276/handouts/lecture8-evaluation.ppt 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://cs276.stanford.edu/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/class/cs276/handouts/lecture14-SVMs.ppt 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/IR-book/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/IR-book/newslides.html 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/class/cs276/handouts/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://www-cs-students.stanford.edu/~dalewis/classificoogle.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/class/cs276/handouts/lecture1-intro-handout-1-per.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/class/cs276/handouts/lecture6-tfidf.ppt 2.0
-    title: null
-    debug: Pagerank: 0
-query: marguerite schedule 
-  url: https://transportation.stanford.edu/marguerite/view-maps-and-schedules/obtain-printed-map-and-schedule 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite/y 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite/slac 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://porterdrivecampus.stanford.edu/neighborhood/transportation-porter-drive 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite/view-maps-and-schedules/limited-holiday-marguerite-shuttle-service 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite/va 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/transit/express-bus/dumbarton-express 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite/view-maps-and-schedules 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/marguerite/rp 2.0
-    title: null
-    debug: Pagerank: 0
-query: cs master tuition 
-  url: https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/tuitionfeesandhousing/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://gradadmissions.stanford.edu/admitted-students/financing-graduate-study/estimated-expense-budget 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/academics/phd/phd-requirements 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://med.stanford.edu/md/mdhandbook/section-7-tuition-and-financial-aid.html 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://scpd.stanford.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=1285200 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin1112/4835.htm 1.5
-    title: null
-    debug: Pagerank: 0
-query: stanford parking permits 
-  url: https://transportation.stanford.edu/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/about/contact 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://pmplus.stanford.edu/pats/transportation/tour/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/parking/learn-about-vehicle-policies/rules-and-regulations 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/orders/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://postdocs.stanford.edu/incoming_scholars/upon_arrival.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/parking/purchase-a-parking-permit/commuters 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/parking/purchase-a-parking-permit/how-to-purchase 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/parking/deal-with-parking-tickets/parking-permit-fundamentals 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/parking/purchase-a-parking-permit/permit-prices-2016-17 2.0
-    title: null
-    debug: Pagerank: 0
-query: stanford history major requirements 
-  url: https://history.stanford.edu/academics/graduate-programs/phd-handbook 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://history.stanford.edu/people/robert-crews 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/artandarthistory/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin0809/7063.htm 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://history.stanford.edu/people/faculty 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/history/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://classics.stanford.edu/academics/undergraduate-program 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://majors.stanford.edu/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://history.stanford.edu/courses 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://history.stanford.edu/academics/undergraduate-program 2.0
-    title: null
-    debug: Pagerank: 0
-query: computational linguistics research 
-  url: https://linguistics.stanford.edu/research/computational-linguistics 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/~gdoyle/papers/doyle-2014-art-talk.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://symsys.stanford.edu/viewing/htmldocument/22074 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://linguistics.stanford.edu/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/pubs/vogeljurafsky12.pdf 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://linguistics.stanford.edu/research/syntax 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://lingo.stanford.edu/courses/05/ge/ftp/overview.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://linguistics.stanford.edu/people/graduate-students 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/~jurafsky/ 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://linguistics.stanford.edu/research/sociolinguistics 0.5
-    title: null
-    debug: Pagerank: 0
-query: stanford dining holiday hours 
-  url: http://news.stanford.edu/news/2006/december6/close-120606.html 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://facultyclub.stanford.edu/Default.aspx?p=DynamicModule&pageid=339269&ssid=238704&vnf=1 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/events-calendar 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/visit/dining 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/locations-hours 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/winter-hours-2017 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://dining.stanford.edu/dining-calendar-dates 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/thanksgiving-hours-2015 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/taxonomy/term/4 0.5
-    title: null
-    debug: Pagerank: 0
-query: how many meal plan dollars do i have left 
-  url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=72888 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/undergraduate-meal-plans 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://statistics.stanford.edu/sites/default/files/Sandstone-and-Tile_Old-Roble.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://gsc.stanford.edu/gsc-meeting-2008-11-05/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/mealplans 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=74802 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/axecomm/cgi-bin/wordpress/wp-content/uploads/2015/08/handbook.final_.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-query: dining plan 
-  url: https://rde.stanford.edu/dining/undergraduate-meal-plans 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin0910/4860.htm 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/food-allergies 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://www.stanford.edu/dept/rde/dining/staff_meals.htm 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/gerhard-casper-dining-commons 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://resed.stanford.edu/life-residences/about-meals-row/what-you-might-expect-your-row-meal-plan 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/sustainable-food-program 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/mealplans 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/faculty-meal-plans 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans 2.0
-    title: null
-    debug: Pagerank: 0
-query: football schedule 
-  url: https://web.stanford.edu/group/ttsclasses/cgi-bin/techietips/?cat=141 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://www.stanford.edu/group/axecomm/cgi-bin/wordpress/?page_id=371 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://kzsu.stanford.edu/prosched/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2009/june3/discount-060309.html 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://pgnet.stanford.edu/home/rta/click?rtaCode=8205&rtaTcode=987473&rtaTarget=http://www.gostanford.com/sports/2015/1/25/208602060.aspx%3Futm_source%3DSAA%26utm_medium%3DHomepage%26utm_campaign%3D%26utm_content%3D 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.stanford.edu/group/axecomm/cgi-bin/wordpress/?page_id=59 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://tusb.stanford.edu/tag/stanford-football 1.0
-    title: null
-    debug: Pagerank: 0
-query: piazza registration without stanford email 
-  url: http://cs228.stanford.edu/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://lagunita.stanford.edu/courses/StanfordOnline/OpenEdX/Demo/courseware/8c8d6d5d907047db917640a192ff1251/6eda8cc681124a1a8184bdcbf170687f/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://snap.stanford.edu/class/cs246-2014/faq.html 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://alumni.stanford.edu/get/page/travel-study/trip/?ciid=23987 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://snap.stanford.edu/class/cs224w-2013/faq.html 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/class/cs246/faq.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/class/me328/syllabus.pdf 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://alumni.stanford.edu/content/travel-study/brochures/2017/italy_2017_06.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/~rjohari/teaching/syllabus/221_syllabus_2016.pdf 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/class/stats202/scpd.html 1.5
-    title: null
-    debug: Pagerank: 0
-query: stanford credits 
-  url: https://biology.stanford.edu/academics/undergraduate-program/transfer-credit 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/transfer-credit/advanced-placement 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/undergraduatedegreesandprograms/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/undergraduatemajorunitreq/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://summer.stanford.edu/faqs/category/curriculum/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/graduation/undergraduate-degree-requirements 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://summer.stanford.edu/academics/credit-evaluation/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/advising/student-guides/can-i-get-credit-ap-ib-or-transfer-courses 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ap-credit-chart 1.0
-    title: null
-    debug: Pagerank: 0
-query: international student center hours 
-  url: https://summer.stanford.edu/welcomeweekend/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/about-us/hours 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://ee.stanford.edu/student-resources/CA-appointments/contact 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://international.stanford.edu/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/ 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/programs-and-events/events-center 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/practical-matters/taxes 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/advising/student-guides/bechtel-international-center 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/coming-stanford/new-student-information/removing-enrollment-hold 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/about-us/appointments 2.0
-    title: null
-    debug: Pagerank: 0
-query: sublet student hours 
-  url: https://rde.stanford.edu/studenthousing/lock-outs-sublicensed-apartments 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/community-housing 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/sublicense 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://law.stanford.edu/education/only-at-sls/global-initiative/foreign-legal-studies-program/bucerius-law-school-bls-hamburg-germany/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/continuous-assignments 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://law.stanford.edu/wp-content/uploads/sites/default/files/child-page/183003/doc/slspublic/bucerius-2012.pdf 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/dept/news/stanfordtoday/ed/9801/9801ncf2.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/housing-front-desk-gerhard-casper-quad 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/sublicensing-places4students-sublet-advertisements 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/undergraduate-housing-newsletter-march-2016 0.5
-    title: null
-    debug: Pagerank: 0
-query: pool summer opening hours 
-  url: http://large.stanford.edu/publications/coal/references/docs/planyc_progress_report_2009.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/academic-breaks 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://law.stanford.edu/environmental-law-clinic/quarterly-updates/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://med.stanford.edu/content/dam/sm/cancer/documents/newsletters/SCI%20News%20Summer%202016.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2013/august/stanford-youth-orchestra-081513.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://outdoored.stanford.edu/center/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://cardinalrec.stanford.edu/facilities/facility-hours/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/IUC/cgi-bin/resources/other-documents/FAQ%209.2016.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/masters/pool.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/news/stanfordtoday/ed/9605/9605sf.html 0.0
-    title: null
-    debug: Pagerank: 0
-query: 24 hour study rooms 
-  url: http://library.stanford.edu/using/study 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://library.stanford.edu/hours 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/2015/11/20/meyer-green-space-112015/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://library.stanford.edu/taxonomy/term/35 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://library.stanford.edu/libraries/lathrop/24-hour-study-room 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://library-hours.stanford.edu/?week=2019W24 2.0
-    title: null
-    debug: Pagerank: 0
-query: scpd tuition 
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://ed.stanford.edu/admissions/financing/masters 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1163094 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/sites/default/files/honorscorphandbook.pdf 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/electrical-engineering/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpdweb.stanford.edu/admissions/tuition-fees 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/tuition-and-fees/related-links-and-previous-years-tuition/tuition-and-fees-2015-16/summer 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861 1.5
-    title: null
-    debug: Pagerank: 0
-query: caltrain go pass program 
-  url: https://transportation.stanford.edu/transit/free-transit-incentives/caltrain-go-pass/about-go-pass 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://pmplus.stanford.edu/pats/transportation/gopass-status/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://postdocs.stanford.edu/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://gsc.stanford.edu/?tag=minutes&m=200703 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/transit/free-transit-incentives/caltrain-go-pass 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation-forms.stanford.edu/pilotgopass/gopass-pilot-eligibility.php 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation.stanford.edu/transit/free-transit-and-incentives 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://transportation-forms.stanford.edu/pilotgopass/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/news/2006/july26/commute-072606.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://sustainability-year-in-review.stanford.edu/2016/topics/communications-outreach/ 0.0
-    title: null
-    debug: Pagerank: 0
-query: stanford commencement 
-  url: https://commencement.stanford.edu/info/parents 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/events/diploma/law 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/info/students/instructions-grads 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/plan-your-visit/parking 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/events/diploma 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/visit/commencement 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/events/schedule 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/2016/01/29/burns-commencement-speaker-012916/ 2.0
-    title: null
-    debug: Pagerank: 0
-query: florence moore address 
-  url: https://stanford.edu/dept/rde/cgi-bin/drupal/conferences/sites/default/files/pdf/Conference%20Front%20Desk%20(CFD)%20Contact%20Information.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/housing-front-desks 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://stanfordwho.stanford.edu/SWApp/detailAction.do?key=DR074A261%20%20%20%20%20%20%20&search=zhang,%20yi&soundex=&stanfordonly=&affilfilter=everyone&filters= 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://lists.stanford.edu/mailman/listinfo/rde-flomo-chefs-table 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://stanfordwho.stanford.edu/SWApp/Search.do?search=jaime 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/cooperative-houses 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/florence-moore-hall-0 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/kosher-dining-program-florence-moore 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://www.stanford.edu/group/westflostaff/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/studenthousing/florence-moore-hall 3.0
-    title: null
-    debug: Pagerank: 0
-query: meal plan cost 
-  url: https://summercollege.stanford.edu/gateway/understanding-bill 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/tuitionfeesandhousing/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/undergraduate-meal-plans 2.5
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/dept/rde/dining/pdfs/2011DiningTour_brochure_12.8.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/undergraduate-meal-plans 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/wilbur-dining 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin0809/4848.htm 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://summercollege.stanford.edu/gateway/housing-dining 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://summer.stanford.edu/programs/international/housing-dining/ 2.0
-    title: null
-    debug: Pagerank: 0
-query: computer science master 
-  url: http://scpd.stanford.edu/online-engineering-courses.jsp 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/academics/prospective-masters 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://msande.stanford.edu/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/admissions/visiting-cs 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/admissions/deadlines 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/academics/current-masters/faq 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/academics/phd/graduate-student-forms 0.0
-    title: null
-    debug: Pagerank: 0
-query: wilbur dinner 
-  url: https://rde.stanford.edu/dining/wilbur-dining 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/undergraduate-meal-plans 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/event/dining-halls-close-winter-break-0 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/chef-inspired-seasonal-kitchen-table 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://unofficial.stanford.edu/?page_id=1683 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/dining-hall-hours 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/SD_winter_hours_2014_web.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://visit.stanford.edu/activities/dining.html 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/dept/rde/dining/facebooklanding.html 2.0
-    title: null
-    debug: Pagerank: 0
-query: memorial church 
-  url: https://music.stanford.edu/venues/memorial-church/memorial-church-accessibility 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://music.stanford.edu/performing-group/memorial-church-choir 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://125.stanford.edu/then-and-now/memorial-church/ 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://events.stanford.edu/events/617/61741 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://live.stanford.edu/plan-your-visit/venues/memorial-church 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/history/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/weddings/wedding-faqs/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://religiouslife.stanford.edu/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/memorial-services/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/holiday-services/ 1.5
-    title: null
-    debug: Pagerank: 0
-query: christopher manning 
-  url: http://nlp.stanford.edu/~manning/xyzzy/Manning_Christopher_DeepNLP.pptx 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/manning/tex/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/IR-book/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://online.stanford.edu/instructors/christopher-manning 2.5
-    title: null
-    debug: Pagerank: 0
-  url: http://stanford.edu/~lmthang/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://iriss.stanford.edu/people/christopher-manning 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/manning/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/manning/papers/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/instructor/manning 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf 1.5
-    title: null
-    debug: Pagerank: 0
-query: scpd lecture videos 
-  url: http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=searchNoCN&cspIndex=true&showInternal=false&quickSearch=false&isPageDisplayed=true&courseSearch.programStreamStringArray=0&courseSearch.programAreaStringArray=11221&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionInstructorName=&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.campusStringArray=0 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=searchNoCN&cspIndex=true&showInternal=false&quickSearch=false&isPageDisplayed=true&courseSearch.courseDescriptionKeyword=&courseSearch.sectionSemesterString=0&courseSearch.deliveryMethodString=Any+Delivery+Option&courseSearch.courseCategoryStringArray=0&courseSearch.programStreamStringArray=0&courseSearch.programAreaStringArray=11221&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionInstructorName=&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.campusStringArray=0 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/university-online-courses.jsp?gclid=CKnw4Nuaj64CFSwDQAodlCz7gg 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/free-stuff/live-webinars-lectures 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11681 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/google/videos/index.php 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/class/cs246/faq.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/free-learning/webinars/donald-knuth-lectures/cs144c-classroom-lecture-about-disk-storage-and-b-0 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/free-learning/webinars/stanford-engineering-hero-lectures/stanford-engineering-hero-lecture-0 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://scpd.stanford.edu/search/ 0.5
-    title: null
-    debug: Pagerank: 0
-query: nlp group stanford 
-  url: http://nlp.stanford.edu/projects/arabic.shtml 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/software/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/people/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/projects/chinese-nlp.shtml 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/software/tagger.shtml 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/blog/in-their-own-words-the-2016-graduates-of-the-stanford-nlp-group/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/software/regexner.html 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://nlp.stanford.edu/read/ 1.0
-    title: null
-    debug: Pagerank: 0
-query: dining meal plan refund 
-  url: https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://summercollege.stanford.edu/gateway/tuition-payment 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/graduate-gateway 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://summercollege.stanford.edu/gateway/understanding-bill 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/hospitality/cardinaldollarspecial 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin0910/4860.htm 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://summercollege.stanford.edu/gateway/housing-dining 1.5
-    title: null
-    debug: Pagerank: 0
-query: harry potter 
-  url: https://searchworks.stanford.edu/view/9175848 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/10196866 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/5329328 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/9251723 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/5761883 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/7705155 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://events.stanford.edu/events/613/61365/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/11700990 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://sparq.stanford.edu/solutions/harry-potter-and-elixir-empathy 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://fairuse.stanford.edu/2008/09/09/harry_potter_lexicon_court_say/ 1.0
-    title: null
-    debug: Pagerank: 0
-query: grade replacement policy 
-  url: http://cepa.stanford.edu/news/tenure-or-turnover 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/planning/academic-policies/grading-policies 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/incomplete-changed-and-repeat-grades/repeated-courses 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://cepa.stanford.edu/sites/default/files/wp16-03-v201601.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://edpolicy.stanford.edu/sites/default/files/publications/guidancedocumentmaximizing-learning-investments.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/certifications-and-verifications/notarized-documents 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://fsh.stanford.edu/brochures/ZIP.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://hanushek.stanford.edu/sites/default/files/publications/Hanushek%202009%20EducEconomics%2017(3).pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://vptl.stanford.edu/teaching-and-learning-innovation/learning-environments/virtual-learning-environments/canvas 0.0
-    title: null
-    debug: Pagerank: 0
-query: winter quarter final schedule 
-  url: https://registrar.stanford.edu/students/final-exams/spring-quarter-exams 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/final-exams/previous-years-exams/winter-quarter-exams-2015-16 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://law.stanford.edu/office-of-the-registrar/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/final-exams/winter-quarter-exams 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/planning/academic-policies/academic-calendar/end-quarter-and-finals 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cdn.law.stanford.edu/wp-content/uploads/2015/04/2016-2017-academic-calendar-FINAL.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/programs/bosp/explore/berlin/about-program/berlin-key-dates 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/faculty/end-term-policies/end-quarter-policy-statement 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://law.stanford.edu/education/courses/exams-and-papers/ 1.0
-    title: null
-    debug: Pagerank: 0
-query: math 
-  url: http://youcubed.stanford.edu/category/teaching-ideas/math-apps/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://math.stanford.edu/~white/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://online.stanford.edu/course/how-learn-math-teachers 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://mathematics.stanford.edu/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://epgyschools.stanford.edu/doe/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://mathematics.stanford.edu/events/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://mathematics.stanford.edu/academics/undergraduate/math-minor/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://mathematics.stanford.edu/academics/winter-2016/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://sumac.stanford.edu/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://mathematics.stanford.edu/people/faculty-lecturers/ 1.5
-    title: null
-    debug: Pagerank: 0
-query: club sports teams 
-  url: http://facts.stanford.edu/campuslife/athletics 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/pe/cgi-bin/wp-content/uploads/2009/06/club-sports-manual-2011-2012-copy.pdf 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/search?q=ATHLETIC&view=catalog&academicYear=&filter-departmentcode-ATHLETIC=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://admission.stanford.edu/student/athletics/club_sports.html 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.stanford.edu/dept/pe/cgi-bin/downloads/clubsports/Fall%202016%20Club%20Sports%20Manual%202016-17.pdf 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/cycling/join/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/womensclubsoccer/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/pe/cgi-bin/downloads/clubsports/OfficerGuide.docx 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/dept/OOD/das/YAFeb/common/slideshow/slider.html 0.0
-    title: null
-    debug: Pagerank: 0
-query: hoover tower entrance price 
-  url: http://financialaid.stanford.edu/undergrad/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://visit.stanford.edu/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://commencement.stanford.edu/system/files/documents/ebrochure2016final.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://lbre.stanford.edu/sites/default/files/parking_and_circulation_map_0.pdf 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://alumni.stanford.edu/get/page/magazine/article/?article_id=34961 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://visit.stanford.edu/plan/parking.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://ed.stanford.edu/in-the-media/no-rich-child-left-behind 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://mcqmc2016.stanford.edu/registration.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://visit.stanford.edu/plan/guides/hoover.html 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://cset.stanford.edu/pd/festival/activities 0.0
-    title: null
-    debug: Pagerank: 0
-query: stanford cs courses 
-  url: http://cs.stanford.edu/courses/schedules/2015-2016.spring.php 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www-cs.stanford.edu/academics/prospective-masters 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://cs221.stanford.edu/ 0.5
-    title: null
-    debug: Pagerank: 0
-  url: https://see.stanford.edu/Course/CS106A 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/schoolofengineering/computerscience/ 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Approved_Courses 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://cs.stanford.edu/courses/schedules/2014-2015.spring.php 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://cs.stanford.edu/academics/courses 3.0
-    title: null
-    debug: Pagerank: 0
-  url: http://online.stanford.edu/course/computer-science-101-Summer-2014 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://explorecourses.stanford.edu/ 2.5
-    title: null
-    debug: Pagerank: 0
-query: stanford judo 
-  url: http://web.stanford.edu/group/judo/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/1541451 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/judo/calendar.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/jujitsu/Zen_Budokai/biographies.html 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://stanford.edu/group/jujitsu/documents/judging%20guidelines%20-%20rev%201.pdf 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/pe/cgi-bin/downloads/facility/ScheduleStudio.pdf 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/judo/class.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://arts.stanford.edu/event/65865/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/jujitsu/Class_Information/history.html 2.0
-    title: null
-    debug: Pagerank: 0
-query: stanford tuition tax form 
-  url: https://sfs.stanford.edu/taxes 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/fms/fingate/staff/supptstudents/res_jobaid.html 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://financialaid.stanford.edu/aid/tax_info/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://bechtel.stanford.edu/practical-matters/taxes/general-tax-information 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://summer.stanford.edu/faqs/category/university-billing-and-payment/ 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/group/fms/fingate/staff/taxcompliance/tax_concern.html 0.5
-    title: null
-    debug: Pagerank: 0
-  url: http://postdocs.stanford.edu/handbook/taxes.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://gap.stanford.edu/handbooks/gap-handbook/chapter-7/subchapter-3/page-7-3-1 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://continuingstudies.stanford.edu/registration-policies/admissions 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://sfs.stanford.edu/taxes/resources 2.0
-    title: null
-    debug: Pagerank: 0
-query: stanford ap credit chart 
-  url: https://registrar.stanford.edu/students/transfer-credit/advanced-placement 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ib-credit-chart 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/dept/registrar/bulletin1112/4883.htm 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://ohs.stanford.edu/about/school-profile 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/group/spa/classes.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ap-credit-chart 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://undergrad.stanford.edu/advising/freshman/new-student-orientation-nso/placement-tests-and-diagnostics 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/mathematicalandcomputationalscience.pdf 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://registrar.stanford.edu/students/enrolling-courses/general-education-breadth-requirements 1.0
-    title: null
-    debug: Pagerank: 0
-query: stanford dining hall 
-  url: https://rde.stanford.edu/dining/summer-2016 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/executive-directors-message 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/student-employment 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining 2.5
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/contact-list 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/graduate-and-postdoc-student-dining-faq 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/dining-hall-hours 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://web.stanford.edu/dept/rde/dining/facebooklanding.html 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/florence-moore-dining 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://rde.stanford.edu/dining/thanksgiving-hours 1.5
-    title: null
-    debug: Pagerank: 0
-query: nobel laureates 
-  url: https://ed.stanford.edu/in-the-media/nobel-laureates-education-plea-revolutionize-teaching 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://med.stanford.edu/news/all-news/2013/10/other-2013-nobel-laureates-in-physiology-or-medicine-have-strong-stanford-ties.html 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://ed.stanford.edu/news/nobel-laureate-appointed-stanford-professor-physics-and-education 1.5
-    title: null
-    debug: Pagerank: 0
-  url: https://physics.stanford.edu/node/19 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/4429962 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://www.gsb.stanford.edu/newsroom/school-news/scholes-business-schools-second-nobel-laureate 1.5
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/nobel/ 3.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/7203362 1.0
-    title: null
-    debug: Pagerank: 0
-  url: http://facts.stanford.edu/academics/faculty 2.0
-    title: null
-    debug: Pagerank: 0
-  url: http://news.stanford.edu/2015/07/21/laureates-climate-change-072015/ 1.5
-    title: null
-    debug: Pagerank: 0
-query: bruno 
-  url: https://searchworks.stanford.edu/view/1603097 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://solar-center.stanford.edu/FAQ/Qsunasstar.html 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://ccrma.stanford.edu/people/bruno-tucunduva-ruviaro 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://searchworks.stanford.edu/view/3495432 0.0
-    title: null
-    debug: Pagerank: 0
-  url: https://ccrma.stanford.edu/~ruviaro/texts/Ruviaro_2005_Kindertotenlieder.pdf 1.0
-    title: null
-    debug: Pagerank: 0
-  url: https://music.stanford.edu/people/bruno-tucunduva-ruviaro 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://web.stanford.edu/~abrahao/ 2.0
-    title: null
-    debug: Pagerank: 0
-  url: https://plato.stanford.edu/entries/bauer/ 0.0
-    title: null
-    debug: Pagerank: 0
-  url: http://fsi-web1.stanford.edu/sites/default/files/Bruno_and_Ewing_Elements_2006.pdf 0.0
-    title: null
-    debug: Pagerank: 0
+query: chris re stanford
+ndcg: 0.5711792439359683
+query: cs phd admit rate
+ndcg: 0.5678303416632319
+query: gates directory
+ndcg: 0.7134636122161324
+query: housing draw
+ndcg: 0.8188812048185976
+query: hcp requirements
+ndcg: 0.6194991625795825
+query: recent ai research
+ndcg: 0.815039941231766
+query: engineering fundamentals
+ndcg: 0.8523920632129143
+query: stanford software
+ndcg: 0.7922394274904344
+query: putin
+ndcg: 0.7619483270020013
+query: tech lounge hours
+ndcg: 0.3900086517640555
+query: braun practice rooms
+ndcg: 0.6012088287789298
+query: braun music center reserve room
+ndcg: 0.7287307639022375
+query: dining hall food bad
+ndcg: 0.6841298737667038
+query: sleep bag
+ndcg: 0.8964044787312819
+query: dan jurafsky stanford
+ndcg: 0.7887817266049851
+query: stanford post office hours
+ndcg: 0.7024721263987845
+query: parking near li ka shing center
+ndcg: 0.9906336236428159
+query: launch stanford email from piazza
+ndcg: 1.0
+query: jerry yang
+ndcg: 0.7836093204326189
+query: graduation commencement schedule
+ndcg: 0.726833553632484
+query: computer science department
+ndcg: 0.9647955224985332
+query: machine learning seminar
+ndcg: 0.7419274208123606
+query: james h clark center
+ndcg: 0.8056279745095769
+query: stanford dining hours
+ndcg: 0.8909993121317321
+query: stanford dining places
+ndcg: 0.8932068096559587
+query: stanford student services center
+ndcg: 0.7386232334299542
+query: where can i spend my meal plan dollars
+ndcg: 0.5873557943841731
+query: masters statistics data science
+ndcg: 0.6137052616470619
+query: hiking dish entrance
+ndcg: 0.6503551660574238
+query: student discounts
+ndcg: 0.7031204055374541
+query: arrillaga gym hours
+ndcg: 0.6358327264989954
+query: political correctness
+ndcg: 0.9472006710917769
+query: part time mba
+ndcg: 0.7155949504780845
+query: fitness center hours
+ndcg: 0.5994869648561774
+query: steve ballmer
+ndcg: 0.9652248295794785
+query: mscs program sheets
+ndcg: 0.8842694981741206
+query: bookstore
+ndcg: 0.9930912351407137
+query: computer science
+ndcg: 0.8784916674773762
+query: study abroad program
+ndcg: 0.9954331452997456
+query: free go pass
+ndcg: 0.7797712449524226
+query: medieval nutrition
+ndcg: 0.5625132876216171
+query: tressider hours
+ndcg: 0.8273736283107628
+query: stanford meal plan
+ndcg: 0.8159954036323633
+query: stanford cantor hours
+ndcg: 0.8261351734840802
+query: stanford gym
+ndcg: 0.9748330333962243
+query: student housing rates
+ndcg: 0.7931527245560066
+query: wilbur dining hours
+ndcg: 0.5087714833192305
+query: stanford snowboarding club
+ndcg: 0.6879237965007995
+query: cs276 instructors
+ndcg: 0.7197411205349724
+query: meal plan account balance
+ndcg: 0.49606292550714176
+query: computer forum
+ndcg: 0.7608004278802518
+query: kiwi
+ndcg: 0.6250669963565263
+query: lost axess password help
+ndcg: 0.9750363051920288
+query: hcp program graduate requirements
+ndcg: 0.8409924528001362
+query: study abroad programs
+ndcg: 0.682650707073984
+query: summer session classes
+ndcg: 0.7915478648075099
+query: stanford undergraduate major requirements
+ndcg: 0.7243027933103718
+query: student help desk
+ndcg: 0.7484609570429178
+query: barbecue pits
+ndcg: 0.7758900207656353
+query: outlook login
+ndcg: 0.7102827927350681
+query: angela zhang
+ndcg: 0.6428688852084476
+query: printing machines
+ndcg: 0.8213640946888806
+query: history department masters program
+ndcg: 0.6570046412934317
+query: lag late night menu
+ndcg: 0.4873097560675315
+query: final exams stanford
+ndcg: 0.8202268989344385
+query: teaching assistantship allowances
+ndcg: 0.8696697100508415
+query: escondido village visitor parking fee
+ndcg: 0.6780375622261813
+query: fall courses
+ndcg: 0.6756135892963576
+query: commencement 2017
+ndcg: 0.8392470810953315
+query: exam schedule
+ndcg: 0.6174883299553803
+query: mscs
+ndcg: 0.763128688273926
+query: stanford furniture help
+ndcg: 0.7026667341791305
+query: larry page
+ndcg: 0.5192134051340921
+query: quarter exam dates
+ndcg: 0.8791637420907824
+query: stanford housing
+ndcg: 0.9775395962159773
+query: bike pump locations
+ndcg: 0.4593151588661257
+query: arrillaga dining hall hours
+ndcg: 0.7683809520070689
+query: lathrop tech desk hours
+ndcg: 1.0
+query: library hour
+ndcg: 0.884975143466307
+query: stanford cs major program sheet
+ndcg: 0.8528677079195338
+query: financial aid
+ndcg: 0.9216871594664002
+query: library paper
+ndcg: 0.6263838587160745
+query: scpd certificate extension
+ndcg: 0.6978060445138929
+query: graduate student housing
+ndcg: 0.7855354711596313
+query: san andreas fault stanford
+ndcg: 0.7347365467791277
+query: coho hours
+ndcg: 0.9447327020982715
+query: human brain engineering
+ndcg: 0.8421977804979687
+query: stanford medical school library opening hours
+ndcg: 0.8759413058974833
+query: spring move out date
+ndcg: 0.7595082431061413
+query: graduate housing deadlines
+ndcg: 0.6286088148092774
+query: student services center hours
+ndcg: 0.453163082733752
+query: motorcycle parking permit
+ndcg: 0.44752672887133166
+query: housing options
+ndcg: 0.7701230087298224
+query: statistics department students
+ndcg: 0.9725061573389628
+query: late night hours
+ndcg: 0.8401134715610076
+query: april 2017 computer science publications
+ndcg: 0.8403833797007808
+query: phd computer science
+ndcg: 0.662893555166251
+query: computer science master requirements
+ndcg: 0.7244618091320513
+query: stanford cs program sheet
+ndcg: 0.8744621872744123
+query: stanford badminton
+ndcg: 0.9339538935020649
+query: nobel prize professor
+ndcg: 0.6640582654463186
+query: stanford farmshare connect
+ndcg: 0.6936242807264047
+query: coho menu
+ndcg: 0.6956551282973686
+query: parking structure 2
+ndcg: 0.6921404622497792
+query: natural language processing stanford group
+ndcg: 0.9780019989298515
+query: mid rise rates 2017
+ndcg: 0.4558370468160153
+query: giants
+ndcg: 1.0
+query: timothy zerlang
+ndcg: 1.0
+query: beach
+ndcg: 0.6730147584776366
+query: stanford graduation requirements
+ndcg: 0.6995839670845283
+query: graduation dates
+ndcg: 0.7931029767444452
+query: taube tennis center
+ndcg: 0.8710283090752631
+query: scpd certificate programs
+ndcg: 0.7628960513633641
+query: honors cooperative program
+ndcg: 0.6506967799174009
+query: parking
+ndcg: 0.7356487147074435
+query: cardinal nights
+ndcg: 0.9084375443389207
+query: degree progress report
+ndcg: 0.5312886580814404
+query: ai track graduate degree program
+ndcg: 0.6747710210861759
+query: cafeteria hours
+ndcg: 0.8602045717897225
+query: stanford courtesy card policies
+ndcg: 0.6656055286946123
+query: stanford football
+ndcg: 0.7244580224532516
+query: parking locations
+ndcg: 0.5632920818437197
+query: public film scanner
+ndcg: 0.45305845280399043
+query: machine learning theory
+ndcg: 0.941460931434524
+query: mailing lists
+ndcg: 0.7153549239421348
+query: stanford 2016 2017 calendar
+ndcg: 0.5451471442123266
+query: symbolic systems major requirements
+ndcg: 0.9603342977151799
+query: graduate housing cost
+ndcg: 0.7326937734567353
+query: off campus housing front desk
+ndcg: 0.9247464588377583
+query: star wars
+ndcg: 0.936712817995118
+query: sunet id setup instructions
+ndcg: 0.6344605723353263
+query: national champions
+ndcg: 0.81666093639025
+query: biology
+ndcg: 0.7866247697298034
+query: scpd certificate requirements
+ndcg: 0.7210881353166921
+query: building linguistic semantic layers
+ndcg: 0.9323582457329587
+query: general education requirements
+ndcg: 0.9791536390004246
+query: internet usage policy
+ndcg: 0.5135906210170769
+query: assu exec team
+ndcg: 0.8450551120340548
+query: part time master
+ndcg: 0.600745310854191
+query: student concert
+ndcg: 0.9705404870513978
+query: graduate residences internet connection
+ndcg: 0.8262577647524392
+query: graduate computer science course waiver
+ndcg: 0.8935014569782544
+query: stanford cs admission
+ndcg: 0.5517217439885846
+query: listening room ccrma
+ndcg: 0.5909939134788849
+query: spring quarter exam week
+ndcg: 0.8955118998279767
+query: 24 hours library
+ndcg: 0.8548980809283961
+query: building 300 location
+ndcg: 0.8841193723261244
+query: when do fall courses begin
+ndcg: 0.9143944597516471
+query: securities litigation
+ndcg: 0.9567210975103808
+query: stanford houses
+ndcg: 0.9538074698441229
+query: exam monitor
+ndcg: 0.7435075775879795
+query: stanford scpd schedules
+ndcg: 0.6953402377289092
+query: bike police ticket options
+ndcg: 0.5304316655651936
+query: campus weekend events
+ndcg: 0.6147494869319846
+query: credit hour value
+ndcg: 0.9100223569500149
+query: students faq
+ndcg: 0.868997032912154
+query: cardinal health insurance
+ndcg: 0.727035745199525
+query: cs247 stanford
+ndcg: 0.8956781992022081
+query: building 300
+ndcg: 0.7682978571005419
+query: stanford hospital address
+ndcg: 0.44032163030171934
+query: campus map
+ndcg: 0.7441381599175654
+query: slavic languages
+ndcg: 0.9873362462371671
+query: stanford shuttle timetable
+ndcg: 0.9654152911856785
+query: career fair
+ndcg: 0.7527088534021295
+query: music practice rooms
+ndcg: 0.7491492835220847
+query: reinforce learning andrew ng papers
+ndcg: 0.8053374042006564
+query: huang basement location
+ndcg: 0.6731650977264455
+query: stanford public transportation
+ndcg: 0.8808421200629063
+query: campus motorcycle parking permit
+ndcg: 0.6713519529156365
+query: stanford robert crown library
+ndcg: 0.8219914670359113
+query: sweet hall address stanford
+ndcg: 0.6610843554130437
+query: parking near gates
+ndcg: 0.7537356548724289
+query: stanford president
+ndcg: 0.915768066334132
+query: tresidder address
+ndcg: 0.884947047926428
+query: math department office hour
+ndcg: 0.6744167568014238
+query: stanford bookstore hours
+ndcg: 0.961829940059205
+query: coterm drop class
+ndcg: 0.9119393006257489
+query: fall semester graduate application deadline
+ndcg: 0.7898565611718015
+query: computer science coterm
+ndcg: 0.7662882654515684
+query: wilbur dining saturday hours
+ndcg: 0.6567525264928146
+query: cs 276 homepage
+ndcg: 0.9774160226912931
+query: scpd website
+ndcg: 0.8631985170351499
+query: library electronic journals
+ndcg: 0.8397981520636602
+query: spring break dining hall hours
+ndcg: 0.5677842581265556
+query: spatial audio
+ndcg: 0.850928763907025
+query: bechtel international student center
+ndcg: 0.9729744110425979
+query: title ix hold deadline
+ndcg: 0.7830382699521453
+query: johns hopkins university
+ndcg: 0.868458611344683
+query: mcmurtry building address
+ndcg: 0.6795806331721261
+query: lake fire
+ndcg: 0.7942551622186741
+query: graduate certificates
+ndcg: 0.8028920265458911
+query: library hours
+ndcg: 0.9990292067641188
+query: stanford health insurance waive
+ndcg: 0.5661194751277988
+query: graduation checklist
+ndcg: 0.681973884288837
+query: bike repair
+ndcg: 0.41107339451132247
+query: cs minor requirements
+ndcg: 0.8438816804549314
+query: housing deadlines
+ndcg: 0.8821931039290959
+query: acoustical dish desk huang
+ndcg: 0.6533933590057492
+query: academic advising
+ndcg: 0.7335333869131025
+query: title ix stanford
+ndcg: 0.7484072212067009
+query: phone orchestra
+ndcg: 0.9787613102435307
+query: parking permit
+ndcg: 0.7947949907917022
+query: coffee after midnight
+ndcg: 0.48821106363961336
+query: campus food
+ndcg: 0.7589994681785597
+query: stanford tech desk
+ndcg: 0.6890874899320572
+query: canary center location
+ndcg: 1.0
+query: parking near gates building
+ndcg: 0.8233286313514373
+query: incoming phd students
+ndcg: 0.6723206676495345
+query: non degree student
+ndcg: 0.6883982719627606
+query: scpd masters degrees
+ndcg: 0.6691621398443256
+query: acsr hours
+ndcg: 0.46737094873235197
+query: stanford parking map
+ndcg: 0.8082077429504378
+query: cs 276
+ndcg: 0.9035519916291703
+query: matlab student license
+ndcg: 0.6946579732990502
+query: mitchell patio
+ndcg: 0.5747496207170241
+query: stanford international center
+ndcg: 0.932150800290521
+query: alumni association benefits
+ndcg: 1.0
+query: stanford visitor information
+ndcg: 0.8660899945080232
+query: rhodes scholar
+ndcg: 0.9457465227299502
+query: stanford dining hall hours
+ndcg: 0.7142291869692533
+query: cs ms graduate requirement
+ndcg: 0.8126996286970143
+query: campus tour schedule
+ndcg: 0.7010111550529173
+query: commencement schedule
+ndcg: 0.8652536475152053
+query: graduate certificate hangout
+ndcg: 0.30102999566398114
+query: microsoft word free
+ndcg: 0.5814327458517514
+query: bicycle registration
+ndcg: 0.5103137124365849
+query: terrorism
+ndcg: 0.9651153950120586
+query: football pac 12 ranking history
+ndcg: 0.8388479526892182
+query: when ca tuition cover applied
+ndcg: 0.8388479526892182
+query: y2e2 parking garage cost
+ndcg: 0.7777061538487878
+query: coterm program sheet stanford
+ndcg: 0.789614926578778
+query: shuttle routes
+ndcg: 0.6227629798095353
+query: 2017 spring final exams schedule
+ndcg: 0.4680364714306844
+query: stanford holiday schedule
+ndcg: 0.8184884303015059
+query: condoleezza rice
+ndcg: 0.9119347131755482
+query: stanford tree mascot
+ndcg: 0.4029417004482964
+query: academic deadlines 2003
+ndcg: 0.5166012047887983
+query: quarter schedule
+ndcg: 0.8926685762541832
+query: stanford bookstore
+ndcg: 0.8989254575087944
+query: computer science course dependency graph
+ndcg: 0.5706417189553201
+query: international student financial aid
+ndcg: 0.8219630341472427
+query: chuck programming
+ndcg: 0.9899711575821473
+query: phd admission
+ndcg: 0.7691421462978193
+query: bing auditorium
+ndcg: 0.8115745664574765
+query: tennis reservation
+ndcg: 0.526045673348862
+query: campus size
+ndcg: 0.9811813025789261
+query: enchanted broccoli forest meal plan
+ndcg: 0.38119339454264556

@@ -1,2 +1,2 @@
-titleweight 0.5
+titleweight 0.1
 bodyweight 0.1

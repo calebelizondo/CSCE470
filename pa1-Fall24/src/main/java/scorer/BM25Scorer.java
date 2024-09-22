@@ -10,6 +10,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
+import java.util.HashSet;
 
 /**
  * Skeleton code for the implementation of a BM25 scorer in Task 2.
@@ -19,16 +21,16 @@ public class BM25Scorer extends AScorer {
     /*
      *  TODO: You will want to tune these values
      */
-    double titleweight  = 0.1;
-    double bodyweight = 0.1;
+    double titleweight  = 20;
+    double bodyweight = 1;
 
     // BM25-specific weights
-    double btitle = 0.1;
-    double bbody = 0.1;
+    double btitle = 1;
+    double bbody = .3;
 
-    double k1 = 0.1;
-    double pageRankLambda = 0.1;
-    double pageRankLambdaPrime = 0.1;
+    double k1 = 5;
+    double pageRankLambda = 5;
+    double pageRankLambdaPrime = 1;
 
     // query -> url -> document
     Map<Query,Map<String, Document>> queryDict;
@@ -76,6 +78,26 @@ public class BM25Scorer extends AScorer {
              * Normalize lengths to get average lengths for
              * each field (body, title).
              */
+
+            int doc_count = 0;
+            double length_total = 0;
+
+            Set<Query> queries = queryDict.keySet();
+            for (Query query : queries) {
+                for (Document doc : queryDict.get(query).values()) {
+                    
+                    if (!lengths.containsKey(doc)) lengths.put(doc, new HashMap<>());
+                    if (tfType == "title") lengths.get(doc).put(tfType, (double) doc.title_length);
+                    else lengths.get(doc).put(tfType, (double) doc.body_length);
+
+                    if (!pagerankScores.containsKey(doc)) pagerankScores.put(doc, (double) doc.page_rank);
+
+                    doc_count += 1;
+                    length_total += lengths.get(doc).get(tfType);
+                }
+            }
+
+            avgLengths.put(tfType, length_total / doc_count);
         }
 
     }
@@ -97,6 +119,31 @@ public class BM25Scorer extends AScorer {
          * Use equation 3 first and then equation 4 in the writeup to compute the overall score
          * of a document d for a query q.
          */
+        
+
+        // Equation 3
+        Set<String> wordSet = new HashSet<String>(q.queryWords); 
+        Map<String, Double> wordWeights = new HashMap<>();
+
+        for (String word : wordSet) {
+            double weight = 0;
+            
+            for (String tfType : this.TFTYPES) {
+                double weight_param = tfType == "title" ? btitle : bbody;
+                weight += weight_param * tfs.get(tfType).get(word);
+            }
+
+            wordWeights.put(word, weight);
+        }
+
+        //Equation 4
+        for (String word : wordSet) {
+            double weight = wordWeights.get(word);
+            double idf = this.utils.totalNumDocs() / this.utils.docFreq(word);
+            double Vj = Math.log(pageRankLambdaPrime + d.page_rank);
+
+            score += (weight * idf) / (k1 + weight) + (pageRankLambda * Vj);
+        }
 
         return score;
     }
@@ -113,6 +160,16 @@ public class BM25Scorer extends AScorer {
          * Use equation 2 in the writeup to normalize the raw term frequencies
          * in fields in document d.
          */
+
+         for (String word : tfs.keySet()) {
+            for (String tfType : this.TFTYPES) {
+                double raw_tf = tfs.get(tfType).getOrDefault(word, 0.0);
+                double field_param = (tfType == "title") ? titleweight : bodyweight;
+                double field_len = (tfType == "title") ? d.title_length : d.body_length;
+                double avg_field_len = avgLengths.get(tfType);
+                tfs.get(tfType).replace(word, raw_tf / ((1 - field_param) + (field_param * field_len / avg_field_len)));
+            }
+         }
     }
 
     /**

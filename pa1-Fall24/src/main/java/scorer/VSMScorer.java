@@ -22,8 +22,8 @@ public class VSMScorer extends AScorer {
      * TODO: You will want to tune the values for
      * the weights for each field.
      */
-    double titleweight  = 0.5;
-    double bodyweight = 0.1;
+    double titleweight  = 5;
+    double bodyweight = 1;
 
     /**
      * Construct a Cosine Similarity scorer.
@@ -59,11 +59,14 @@ public class VSMScorer extends AScorer {
         for (String word : wordSet) {
             double title_tf = tfs.get("title").getOrDefault(word, 0.0);
             double body_tf = tfs.get("body").getOrDefault(wordSet, 0.0);
-            double combined_tf = titleweight * title_tf + body_tf * bodyweight;
+            //System.out.println("title_tf: " + title_tf);
+            //System.out.println("body_tf: " + body_tf);
+            double combined_tf = (titleweight * title_tf) + (body_tf * bodyweight);
 
             score += tfQuery.get(word) * combined_tf;
         }
-
+        //System.out.println("score: " + score);
+        
         return score;
     }
 
@@ -80,10 +83,14 @@ public class VSMScorer extends AScorer {
          * for term frequency normalization as discussed in the assignment handout.
          */
 
+        for (String word : tfs.get("title").keySet()) {
+            double raw_tf = tfs.get("title").get(word);
+            tfs.get("title").replace(word, raw_tf / d.title_length);
+        }
+
         for (String word : tfs.get("body").keySet()) {
-            if (d.body_hits != null && d.body_hits.containsKey(word)) {
-                tfs.get("body").replace(word, 1 + Math.log(tfs.get("body").get(word)));
-            }
+            double raw_tf = tfs.get("body").get(word);
+            tfs.get("body").replace(word, raw_tf / d.body_length);
         }
     }
 
